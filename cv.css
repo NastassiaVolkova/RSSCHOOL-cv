@@ -1,5 +1,4 @@
-<style> 
-  body  {
+.body  {
     margin: 0 300px 100px 300px;
     font-weight: 200;
     font-family: -apple-system, "Helvetica Neue", "Lucida Grande";
@@ -54,6 +53,3 @@
   .place-block {
     margin-top: 20px;
   }
-  
-
-</style>
