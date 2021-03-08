@@ -12,6 +12,7 @@ My goal is to start career as a Junior Front-end developer and become a highly q
 
 ## Professional Skills
 
+* English level: A2 Elementary
 * HTML
 * CSS
 * JavaScript
