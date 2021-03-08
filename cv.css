@@ -1,5 +1,5 @@
 body  {
-    margin: 0 300 100 300;
+    margin: 0 300px 100px 300px;
     font-weight: 200;
     font-family: "Helvetica Neue", "Lucida Grande";
     text-align: justify;
@@ -9,8 +9,8 @@ body  {
     padding-top: 50px;
   }
   .photo {
-    width: 200;
-    height: 200;
+    width: 200px;
+    height: 200px;
   }
   .block:hover {
     border: 1px rgb(150, 146, 128) solid;
