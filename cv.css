@@ -1,8 +1,7 @@
-<style> 
-  body  {
+body  {
     margin: 0 300px 100px 300px;
     font-weight: 200;
-    font-family: -apple-system, "Helvetica Neue", "Lucida Grande";
+    font-family: "Helvetica Neue", "Lucida Grande";
     text-align: justify;
   }
   .header-image {
@@ -46,7 +45,7 @@
   }
   .place {
     font-size: 19px;
-    font-weight: 400;
+    font-weight: 500;
   }
   .year {
     font-size: 19px;
@@ -54,6 +53,3 @@
   .place-block {
     margin-top: 20px;
   }
-  
-
-</style>
