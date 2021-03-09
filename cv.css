@@ -1,8 +1,14 @@
-body  {
-    margin: 0 300px 100px 300px;
+  body  {
+    margin-bottom: 100px;
     font-weight: 200;
     font-family: "Helvetica Neue", "Lucida Grande";
     text-align: justify;
+  }
+  .center {
+    width: 900px;
+    margin: 0 auto;
+  }
+  .main {
   }
   .header-image {
     text-align: center;
